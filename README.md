@@ -4,4 +4,4 @@ Infographie project map relief.
 # Usage:
 Execute program with path map file:
 
-./fdf map_name.fdf
+./fdf maps/map_name.fdf
